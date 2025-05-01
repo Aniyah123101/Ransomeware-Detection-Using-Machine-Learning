@@ -57,7 +57,7 @@ This project explores multiple machine learning models to detect ransomware from
 | `data/` | Folder for dataset (or sample if original is too large) |
 | `README.md` | Project overview and instructions |
 | `requirements.txt` | Python dependencies |
-| `report.pdf` | (Optional) Your final report formatted as PDF |
+| `report.pdf` | Your final report formatted as PDF |
 
 ---
 
